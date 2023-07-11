@@ -17,11 +17,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 Enable IIS to host website osTicket
-- Item 2 Install MySQL server for database in osTicket
-- Item 3 Installing/configuring osTicket
-- Item 4 Enabled osTicket to fetch/process email
-- Item 5 Create database for osTicket
+- Enable IIS to host website osTicket
+- Install MySQL server for database in osTicket
+- Installing/configuring osTicket
+- Enabled osTicket to fetch/process email
+- Create database for osTicket
 
 <h2>Installation Steps</h2>
 
