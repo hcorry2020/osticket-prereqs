@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 1 Enable IIS to host website osTicket
 - Item 2 Install database platform for osTicket
 - Item 3 Installing/configuring osTicket
-- Item 4
+- Item 4 Enabled osTicket to fetch/process email
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -48,3 +48,12 @@ Here i'm installing a database platform for osTicket.
 Now i'm installing/configuring osTicket.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/wy9yJOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I've enabled osTicket to fetch & process email.
+</p>
+<br />
+
