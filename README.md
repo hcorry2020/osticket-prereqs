@@ -37,7 +37,7 @@ In the above picture, I'm enabling IIS so i will be able to host osTicket on Win
 <img src="https://i.imgur.com/hxGUMyi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here i'm installing a database platform for osTicket.
+Here i'm installing a server for our future database for osTicket.
 </p>
 <br />
 
