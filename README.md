@@ -65,3 +65,12 @@ osTicket database has been created!
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/fPRGNNx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+osTicket installation is now complete!
+</p>
+<br />
+
+
