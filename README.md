@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Item 1 Enable IIS to host website osTicket
 - Item 2 Install database platform for osTicket
-- Item 3
+- Item 3 Installing/configuring osTicket
 - Item 4
 - Item 5
 
